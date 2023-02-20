@@ -1,0 +1,35 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.fontSize": 13,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 2,
+  "files.autoSave": "afterDelay",
+  "git.openRepositoryInParentFolders": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.external.osxExec": "iterm2",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.showExitAlert": false,
+  "update.showReleaseNotes": false,
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "editor.fontFamily": "Roboto Mono",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.colorTheme": "Flotta",
+  "indentRainbow.colors": [
+    "rgba(24, 78, 119,0.15)",
+    "rgba(30, 96, 145,0.15)",
+    "rgba(26, 117, 159, 0.15)",
+    "rgba(22, 138, 173,0.15)",
+    "rgba(52, 160, 164,0.15)",
+    "rgba(82, 182, 154,0.15)",
+    "rgba(82, 182, 154,0.1)",
+    "rgba(82, 182, 154,0.05)",
+    "rgba(82, 182, 154,0.025)"
+  ]
+}
